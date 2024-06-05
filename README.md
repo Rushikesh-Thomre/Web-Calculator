@@ -17,6 +17,9 @@ Use the calculator to perform basic arithmetic operations.
 Project Structure -:
 
 index.html: Main HTML file containing the structure of the calculator.
+
 style.css and utility.css : Stylesheet for styling the calculator.
+
 script.js: JavaScript file containing the logic for calculator operations.
+
 Preview -: You can see a live preview of the calculator here
